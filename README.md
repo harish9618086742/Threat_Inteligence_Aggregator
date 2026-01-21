@@ -1,8 +1,8 @@
 threat-intel-aggregator/  
 ├── feeds/  
-│      ├── osint_urls.txt    
-│      └── local_feeds/
-         └── sample_iocs.txt   
+│   ├── osint_urls.txt  
+│   └── local_feeds/  
+    └── sample_iocs.txt
 ├── logs/  
 │   └── ti_aggregator.log  
 ├── output/  
@@ -20,5 +20,6 @@ threat-intel-aggregator/
 ├── main.py  
 ├── requirements.txt  
 ├── README.md  
-└── iocs.db  
+└── iocs.db
+
 
