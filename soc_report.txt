@@ -1,0 +1,6 @@
+
+SOC Threat Intelligence Report
+Generated: 2026-01-21T12:30:03.380029
+
+Total IOCs: 4464
+High Severity IOCs: 4464
